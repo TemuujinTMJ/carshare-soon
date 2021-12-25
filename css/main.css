@@ -86,7 +86,7 @@ body {
  * ## links 
  * ------------------------------------------------------------------- */
 a {
-  color: #8dc63f;
+  color: #FF4000;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
@@ -410,7 +410,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #8dc63f;
+  background: #FF4000;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -419,7 +419,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #8dc63f;
+  color: #FF4000;
 }
 
 dd {
@@ -820,7 +820,7 @@ textarea:focus,
 select:focus {
   color: #000000;
   box-shadow: 0 0 5px rgba(141, 198, 63, 0.8);
-  border: 1px solid #8dc63f;
+  border: 1px solid #FF4000;
 }
 
 label,
@@ -913,7 +913,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #8dc63f;
+  -webkit-text-fill-color: #FF4000;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -974,8 +974,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #8dc63f;
-  border-color: #8dc63f;
+  background: #FF4000;
+  border-color: #FF4000;
   color: #ffffff;
 }
 
@@ -1196,7 +1196,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #8dc63f;
+  color: #FF4000;
 }
 
 .stats-tabs li a em {
@@ -1822,7 +1822,7 @@ input::-moz-focus-inner {
   line-height: 2rem;
   text-transform: uppercase;
   letter-spacing: .3em;
-  color: #8dc63f;
+  color: #FF4000;
   padding-left: .6rem;
   margin-top: 0;
   margin-bottom: .8rem;
